@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CommonTypes.Exceptions.ModelException" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\ModelException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommonTypes.Models.SensorDataMessageModel" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\SensorDataMessageModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommonTypes.ProjectModels.ControlItemInfo" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>ProjectModels\ControlItemInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommonTypes.ProjectModels.EmulatorVisualizationItemInfo" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAgAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProjectModels\EmulatorVisualizationItemInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommonTypes.ProjectModels.LabProject" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAACAACAAAAAAAAgAAAAAAACACAAAABCA=</HashCode>
+      <FileName>ProjectModels\LabProject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommonTypes.ProjectModels.SensorDataProviderInfo" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>ProjectModels\SensorDataProviderInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommonTypes.Constants" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgACAIAAAAAAAFAAAAAAAQEAAAAIA=</HashCode>
+      <FileName>Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CommonTypes.Interfaces.IModel" Collapsed="true">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="CommonTypes.ProjectModels.EmulatorVisualizerTypes" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>ProjectModels\EmulatorVisualizerTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CommonTypes.ProjectModels.SensorDataChartTypes" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProjectModels\SensorDataChartTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

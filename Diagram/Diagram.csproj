@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CommonTypes\CommonTypes.csproj" />
+    <ProjectReference Include="..\MqttLabEmulator\MqttLabEmulator.csproj" />
+    <ProjectReference Include="..\MqttLabGenerator\MqttLabGenerator.csproj" />
+    <ProjectReference Include="..\MqttLabStudent\MqttLabStudent.csproj" />
+  </ItemGroup>
+
+</Project>
